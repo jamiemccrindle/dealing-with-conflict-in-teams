@@ -125,11 +125,11 @@ You'll appear to be right more often
 
 ### Have the conversation
 
-If you think someone is upset, speak to them
+If you think someone is upset, talk to them about it.
 
 ---
 
-#### Add weights to your positions
+#### Add weight to your positions
 
 e.g. I think the button would be better if it's blue but I don't feel too strongly about it
 
@@ -151,6 +151,12 @@ e.g. I think the button would be better if it's blue but I don't feel too strong
 
 ---
 
+### Yes and
+
+Instead of 'No but'
+
+---
+
 ### The power of 'I don't know'.
 
 ---
@@ -164,3 +170,7 @@ e.g. I think the button would be better if it's blue but I don't feel too strong
 ---
 
 thanks.
+
+---
+
+### Questions
