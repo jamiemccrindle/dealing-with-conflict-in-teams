@@ -19,7 +19,9 @@ logoImg: "https://avatars.githubusercontent.com/u/909696?v=4"
 
 * Break out into rooms with 3 people
 * Debate which is better - Oranges or Apples, 1 minute each
-* One person is the adjudicator
+* One person takes Oranges, one person takes Apples
+    * Feel free to switch out to your favourite fruit
+* One person is the adjudicator who will report back who won.
 
 ---
 
@@ -36,8 +38,8 @@ logoImg: "https://avatars.githubusercontent.com/u/909696?v=4"
 * Break out into rooms with 3 people
 * 1 minute each. First 30 seconds talk about what you have in common
     * Highlight what you like about the other fruit
-* Last 30 seconds discuss why you prefer your fruit, use I prefer X because.
-* One person is the adjudicator
+* Last 30 seconds discuss why you prefer your fruit, use 'I prefer X over Y because'.
+* One person is an observer / team member.
 
 ---
 
