@@ -2,6 +2,7 @@
 title: "Dealing with conflict in teams"
 author: Jamie McCrindle
 transition: slide
+theme: night
 logoImg: "https://avatars.githubusercontent.com/u/909696?v=4"
 ---
 
@@ -125,33 +126,47 @@ You'll appear to be right more often
 
 ---
 
+<!-- .slide: data-transition="slide" data-background="#393e6f" data-background-transition="fade" -->
+
 ### Have the conversation
 
 If you think someone is upset, talk to them about it.
 
 ---
 
-#### Add weight to your positions
+<!-- .slide: data-transition="slide" data-background="#4c5f7a" data-background-transition="fade" -->
+
+### Add weight to your positions
 
 e.g. I think the button would be better if it's blue but I don't feel too strongly about it
 
 ---
 
+<!-- .slide: data-transition="slide" data-background="#3d2e4f" data-background-transition="fade" -->
+
 ### Be factual. Be authentic.
 
 ---
+
+<!-- .slide: data-transition="slide" data-background="#321d2f" data-background-transition="fade" -->
 
 ### Assume good intent
 
 ---
 
+<!-- .slide: data-transition="slide" data-background="#333" data-background-transition="fade" -->
+
 ### Give solutions
 
 ---
 
+<!-- .slide: data-transition="slide" data-background="#044343" data-background-transition="fade" -->
+
 ### Listen, withhold judgement.
 
 ---
+
+<!-- .slide: data-transition="slide" data-background="#310a5d" data-background-transition="fade" -->
 
 ### Yes and
 
@@ -159,9 +174,13 @@ Instead of 'No but'
 
 ---
 
+<!-- .slide: data-transition="slide" data-background="#222831" data-background-transition="fade" -->
+
 ### The power of 'I don't know'.
 
 ---
+
+<!-- .slide: data-transition="slide" data-background="#272121" data-background-transition="fade" -->
 
 ### Focus on outcomes
 
