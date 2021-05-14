@@ -186,6 +186,12 @@ Instead of 'No but'
 
 ---
 
+<!-- .slide: data-transition="slide" data-background="#272121" data-background-transition="fade" -->
+
+### Look forward not backwards
+
+---
+
 ### How to take a compliment with this one simple trick
 
 ---
