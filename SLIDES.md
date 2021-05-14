@@ -190,6 +190,8 @@ Instead of 'No but'
 
 ### Look forward not backwards
 
+Constructive change is better than dwelling on mistakes
+
 ---
 
 ### How to take a compliment with this one simple trick
